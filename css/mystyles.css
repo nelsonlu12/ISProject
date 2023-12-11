@@ -1,0 +1,11 @@
+.homebg {background-color: beige;}
+.align {text-align: right;}
+.underline {text-decoration: underline;}
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+}
+.image {
+    float: left;
+    margin-right: 20px;
+}
